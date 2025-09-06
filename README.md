@@ -1,7 +1,8 @@
 # Social Media Automation with Make.com + OpenAI
 
-This project automates social media content creation and posting across multiple platforms using Make.com (formerly Integromat), OpenAI, Google Sheets, and HTTP integrations.
+This project automates social media content creation and posting across multiple platforms using Make.com (formerly Integromat), OpenAI, Google Sheets, and direct API integrations. It helps maintain a consistent posting schedule while leveraging AI for engaging content generation.
 
+# Work Overview
 ![Workflow Automation](workflow_automation.png)
 
 -----
@@ -11,7 +12,7 @@ This project automates social media content creation and posting across multiple
 - **Facebook Pages**
 - **Instagram**
 - **LinkedIn**
-- **Google Sheets** (for content sourcing)
+- **Google Sheets** (for sourcing content ideas)
 
 -----
 
@@ -35,11 +36,10 @@ The automation workflow follows a streamlined process:
 
 -----
 
-## 🧠 AI-Powered Features
-
-- **Caption Generation**: Automatically creates engaging captions tailored for each platform
-- **Hashtag Recommendation**: Suggests relevant hashtags to maximize reach
-- **Voice-to-Text Support**: Optional feature for audio content conversion
+🧠 AI-Powered Features
+	•	Intelligent caption generation tailored for each platform.
+	•	Automated hashtag recommendations for maximum reach.
+	•	Optional voice-to-text support for faster content creation.
 
 -----
 
